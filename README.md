@@ -1,10 +1,12 @@
-### Hi there 👋
+### Welcome at my profile!
+
+![Lup's github stats](https://github-readme-stats.vercel.app/api?username=lelup24)
 
 <!--
 **lelup24/lelup24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-![Lup's github stats](https://github-readme-stats.vercel.app/api?username=lelup24)
+
 
 Here are some ideas to get you started:
 
